@@ -51,7 +51,7 @@ PLATFORMS
 DEPENDENCIES
   awesome_print!
   hashie
-  octokit (~> 2.4)
+  octokit (~> 2.0)
   pry
   rspec
   sinatra (= 1.4.4)
